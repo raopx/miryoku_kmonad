@@ -6,9 +6,9 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       mode: '["build"]'
-      alphas: '["default"]'
+      alphas: '["qwerty"]'
       nav: '["default"]'
       clipboard: '["mac"]'
       layers: '["default"]'
-      mapping: '["default"]'
+      mapping: '["noreverseangle"]'
       kmonad_os: '["mac"]'
