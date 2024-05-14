@@ -10,5 +10,5 @@ jobs:
       nav: '["default"]'
       clipboard: '["mac"]'
       layers: '["default"]'
-      mapping: '["noreverseangle"]'
+      mapping: '["lite"]'
       kmonad_os: '["mac"]'
